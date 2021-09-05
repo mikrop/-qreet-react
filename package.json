@@ -41,7 +41,7 @@
   },
   "peerDependencies": {
     "react": "^16.7.0",
-    "react-native": "^0.57.8"
+    "react-native": "^0.62.3"
   },
   "devDependencies": {
     "babel": "^6.23.0",
